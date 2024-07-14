@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on a variety of projects ranging from accessibility features to my own personal basketball learning manual. 
-- 👯 I’m looking to collaborate on more projects with other like-minded individuals, so please reach out to me on LinkedIn!
+- 👯 I’m looking to collaborate on more projects with other like-minded individuals, so please reach out to me on LinkedIn or at justin_jang@brown.edu!
 
 <!--
 **jjang721/jjang721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
