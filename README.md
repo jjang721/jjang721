@@ -1,11 +1,13 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on a variety of projects ranging from accessibility features to my own personal basketball learning manual. 
-- 👯 I’m looking to collaborate on more projects with other like-minded individuals, so please reach out to me on LinkedIn or at justin_jang@brown.edu!
 
 
-# 💫 About Me:
+# Hi there 👋:
 I am a sophomore at Brown University studying computer science and mathematics. I am passionate about creating applications for others and using them to build communities! 
+
+## What I'm Up To 
+
+- 🏀 Working on projects ranging from accessibility features to my own personal basketball learning manual. 
+- 🎶 Studying machine learning to build more music projects.
+
 
 
 ## 🌐 Socials:
