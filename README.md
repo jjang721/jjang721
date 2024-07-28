@@ -7,7 +7,7 @@ I am a sophomore at Brown University studying computer science and mathematics. 
 
 - 🏀 Working on my own personal basketball learning manual
 - 🧩 Launching a messaging platform with accessability features to help my local special education center
-- 🎶 Studying machine learning to build more music projects
+- 🎶 Studying machine learning to build more music projects and applications
 
 
 
