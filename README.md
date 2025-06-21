@@ -1,7 +1,7 @@
 
 
 # Hi there 👋:
-I am a sophomore at Brown University studying computer science and economics. I am passionate about creating applications for others and using them to build strong communities! 
+I am a junior at Brown University studying computer science and economics. I am passionate about creating applications for others and using them to build strong communities! 
 
 ## What I'm Up To 
 
