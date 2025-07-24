@@ -1,7 +1,7 @@
 
 
 # Hi, I'm Justin.
-I am a junior at Brown University studying computer science, applied math, and economics. I am passionate about creating applications for others and using them to build strong communities! 
+I am a junior at Brown University studying computer science, applied math, and economics. I am passionate about creating applications for others and using them to build strong communities! I am interested in careers in software engineering, AI/ML, and research at the intersection of technology and human health.
 
 ## What I'm Up To 
 
