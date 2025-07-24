@@ -5,10 +5,11 @@ I am a junior at Brown University studying computer science, applied math, and e
 
 ## What I'm Up To 
 
-- 🧠 Developing an LSTM-based model to predict high-frequency brain activity from SEEG recordings as part of a Brown research award  
-- 🏀 Working on my own personal basketball learning manual, combining stats, strategy, and interactive visualizations 
-- 🧩 Launching a messaging platform with accessability features to support communication at my local special education center  
+- 🧠 Developing an LSTM-based model to predict high-frequency brain activity from SEEG recordings as part of a Brown undergraduate research award   
 - 🎶 Creating a sound visualizer with machine learning to explore the intersection of audio recognition and interactive design
+- 🧬 Building a stroke recovery assistant using LangChain and RAG to support patient education through conversational AI
+- 🏀 Engineered my own personal basketball learning manual, combining stats, strategy, and interactive visualizations 
+- 🧩 Launched a messaging platform with accessability features to support communication at my local special education center
 
 
 
